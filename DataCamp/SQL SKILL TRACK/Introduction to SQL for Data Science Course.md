@@ -43,7 +43,7 @@ In SQL:
 
 #### Points to Remember:
 
-- **<>**  Symbol for **NOT EQUAL To **
+- **<>**  Symbol for **NOT EQUAL To**
 - **' '** Single Quote is used to enclose strings in PostgreSQL
 - **Division( / )** is like Python 2.xx so we should divide by a float to get a floating point value
 - Default sort order in **ORDER BY** is Ascending to reverse **DESC** keyword is added
