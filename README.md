@@ -2,4 +2,4 @@
 
 Contains the courses I took and things learned during the process
 
--[Version Control With GIT](https://github.com/veeravignesh1/Data-Science-PGP/tree/master/GIT/Coursera%20-%20Version%20Control%20With%20GITT)
+-[Version Control With GIT](https://github.com/veeravignesh1/Data-Science-PGP/tree/master/GIT)
